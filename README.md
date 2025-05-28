@@ -11,7 +11,7 @@ Meu principal objetivo é **unir os conhecimentos da Engenharia de Produção co
 ---
 
 ### 🌱 Atualmente Aprendendo
-- [Linguagem de Programação Principal: Python para Análise de Dados, Pesquisa Operacional e Otimização Combinatória]
+- [Linguagem de Programação Principal: Python para Pesquisa Operacional, Otimização Combinatória, Machine Learning e Análise de Dados.]
 - [SQL para gerenciamento de bancos de dados]
 - [Ferramenta para Análise Visual: Power BI]
 
