@@ -8,14 +8,16 @@ Criei este GitHub para registrar minha evolução e compartilhar os projetos que
 
 Meu principal objetivo é **unir os conhecimentos da Engenharia de Produção com o poder da tecnologia**, buscando criar soluções que possam otimizar processos, resolver problemas reais e realizar análises de dados eficazes.
 
----
+----
 
-### 🌱 Atualmente Aprendendo
-- [Linguagem de Programação Principal: Python para Pesquisa Operacional, Otimização Combinatória, Machine Learning e Análise de Dados.]
-- [SQL para gerenciamento de bancos de dados]
-- [Ferramenta para Análise Visual: Power BI]
+### 💡 Atualmente Aprendendo
+🤖 Linguagem de Programação Principal: Python para Pesquisa Operacional, Otimização Combinatória, Machine Learning e Análise de Dados.
 
----
+💾 SQL para gerenciamento de bancos de dados.
+
+📊 Ferramenta para Análise Visual: Power BI.
+
+----
 
 ### 📫 Entre em Contato
 <p align="left">
